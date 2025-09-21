@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.47.10",
+    "@turf/turf": "^7.2.0",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "cloudflare-scraper": "^2.0.0",
+    "dotenv": "^16.4.7",
+    "got-scraping": "^4.0.8",
+    "graceful-fs": "^4.2.11",
+    "https-proxy-agent": "^5.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "node-fetch": "^3.3.2",
+    "papaparse": "^5.4.1",
+    "proj4": "^2.15.0"
+  }
+}
